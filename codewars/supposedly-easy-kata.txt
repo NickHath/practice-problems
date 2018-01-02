@@ -1,0 +1,4 @@
+supposedly-easy-kata.txt
+http://www.codewars.com/kata/strip-url-params/train/javascript
+https://www.codewars.com/kata/coordinates-validator/train/javascript
+https://www.codewars.com/kata/pascals-triangle/javascript
